@@ -9,10 +9,14 @@ AsaVault App is avaiable on both iOS and Android platforms. AsaVault is a secure
 
 ## Download AsaVault App for Sandbox
 
- [AsaVault App](https://testflight.apple.com/join/s55hZBcs) | [Android App]()
-
 For iOS Sandbox App, developers will have to also download and install [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) App from the app store.
 More details [here](https://testflight.apple.com/join/s55hZBcs)
+
+
+ [AsaVault iOS App](https://testflight.apple.com/join/s55hZBcs) 
+ 
+ [AsaVault Android App](https://github.com/ASAFINANCIAL/asavaultmobileapp/raw/main/asavault.v107.20240724-1.apk?download=)
+
 
 
 ## Download AsaVault App from App Store and Play Store
