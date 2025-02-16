@@ -15,7 +15,7 @@ More details [here](https://testflight.apple.com/join/s55hZBcs)
 
  [AsaVault iOS App](https://testflight.apple.com/join/s55hZBcs) 
  
- [AsaVault Android App](https://github.com/ASAFINANCIAL/asavaultmobileapp/blob/main/asavault.sandbox.v118.20250108.apk?download=)
+ [AsaVault Android App](https://github.com/ASAFINANCIAL/asavaultmobileapp/blob/main/asavault.sandbox.v118.20250213.apk?download=)
 
 
 
